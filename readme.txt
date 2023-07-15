@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Nica
+Author: Nica Zurbano
 Twitter: @nicazur
